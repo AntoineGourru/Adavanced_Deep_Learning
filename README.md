@@ -11,9 +11,9 @@
 - TD 8 (Séance 8) Distillation / Compression (Antoine)
 
 ### Part 2 - Deep Reinforcement Learning
-- TD 9 (Séance 10) RL INtro (Bob)
-- TD 10 (Séance 11) RL Maze (Bob)
-- TD 11 (Séance 12 - 13) RL Pong (Bob)
+- TD 9 (Séance 10) Intro 
+- TD 10 (Séance 11) Maze Solving 
+- TD 11 (Séance 12 - 13) Learning to PLayPong
 
 ### Part 3 - Generative Modeling
 - TD 12 (Séance 14-15) VAE (Bob)
