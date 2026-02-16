@@ -1,12 +1,12 @@
 # Adavanced Deep Learning Course
 
 ### Part 1 - Deep Learning in Pytorch : overview of architectures 
-- TD1 (Séance 1) Pytorch
-- TD2 (Séance 1) Newton
-- TD3 (Séance 2) MLP
-- TD4 (Séance 3) AutoEncoder
-- TD5 (Séance 4) CNN
-- TD6 (Séance 5) RNN
+- TD 1 (Séance 1) Pytorch
+- TD 2 (Séance 1) Newton
+- TD 3 (Séance 2) MLP
+- TD 4 (Séance 3) AutoEncoder
+- TD 5 (Séance 4) CNN
+- TD 6 (Séance 5) RNN
 - TD 7 (Séance 6 et 7) Transformer
 - TD 8 (Séance 8) Distillation / Compression (Antoine)
 
