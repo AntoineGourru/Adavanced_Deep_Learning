@@ -16,14 +16,15 @@
 - TD 11 (Séance 12 - 13) Learning to Play Pong
 
 ### Part 3 - Generative Modeling
-- TD 12 (Séance 14-15) VAE (Bob)
-- TD 13 (Séance 16-17) GAN (Bob)
+- TD 12 (Séance 14-15) VAE 
+- TD 13 (Séance 16-17) GAN 
 
 ## To DO
-- TD 8 (Séance 8) Distillation / Compression (Antoine)
-- TD Eval 1 (Séance 9) Surprise (Haifei)
-- TD 9 (Séance 10) RL INtro (Bob)
-- TD 10 (Séance 11) RL Maze (Bob)
-- TD 11 (Séance 12 - 13) RL Pong (Bob)
-- TD 12 (Séance 14-15) VAE (Bob)
-- TD Eval 2 (Séance 16) Surprise (Haifei) 
+- TD 8 (Antoine)
+- Eval 1 (Séance 9) (Haifei)
+- TD 9 (Antoine)
+- TD 10 (Antoine)
+- TD 11 (Antoine)
+- TD 12 (Antoine)
+- TD 13 (Antoine)
+- Eval 2 (Séance 18) (Haifei) 
