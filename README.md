@@ -8,7 +8,7 @@
 - TD 5 (Séance 4) CNN
 - TD 6 (Séance 5) RNN
 - TD 7 (Séance 6 et 7) Transformer
-- TD 8 (Séance 8) Distillation / Compression (Antoine)
+- TD 8 (Séance 8) Distillation
 
 ### Part 2 - Deep Reinforcement Learning
 - TD 9 (Séance 10) Intro 
